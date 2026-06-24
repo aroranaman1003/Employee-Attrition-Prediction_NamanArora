@@ -1,0 +1,37 @@
+# Employee Attrition Prediction
+
+## Objective
+
+Build a Machine Learning system that predicts whether an employee is likely to leave the company based on HR analytics data.
+
+## Dataset
+
+IBM HR Analytics Employee Attrition Dataset
+
+## Project Status
+
+In Progress
+
+## Planned Tasks
+
+* Data Loading & Exploration
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Classification Model Building
+* Model Evaluation
+* Feature Importance Analysis
+* HR Recommendations
+
+## Tools Used
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+## Author
+
+Naman Arora
