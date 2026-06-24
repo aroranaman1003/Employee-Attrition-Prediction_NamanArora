@@ -10,7 +10,10 @@ IBM HR Analytics Employee Attrition Dataset
 
 ## Project Status
 
-In Progress
+## Project Status
+
+Task 1 Completed 
+Task 2 In Progress 
 
 ## Planned Tasks
 
