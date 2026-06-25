@@ -15,6 +15,17 @@
 - Identified numerical and categorical columns.
 - Completed Task 1.
 
-### Next Step
+## Day 2
 
-Begin Task 2 - Data Cleaning & Preprocessing.
+### Completed
+
+* Verified there were no missing values in the dataset.
+* Removed irrelevant columns after analyzing their usefulness.
+* Converted the target variable into numerical format.
+* Performed One-Hot Encoding on categorical features.
+* Standardized continuous numerical features using StandardScaler.
+* Completed Task 2 - Data Cleaning & Preprocessing.
+
+### Next Goal
+
+Begin Exploratory Data Analysis (EDA) to identify patterns in employee attrition and generate business insights.
