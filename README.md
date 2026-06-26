@@ -16,7 +16,7 @@ IBM HR Analytics Employee Attrition Dataset
 
 * Task 1 - Data Loading & Exploration Completed
 * Task 2 - Data Cleaning & Preprocessing Completed
-* Task 3 - Exploratory Data Analysis (EDA) In Progress
+* Task 3 - Exploratory Data Analysis (EDA) Completed
 
 
 ## Planned Tasks

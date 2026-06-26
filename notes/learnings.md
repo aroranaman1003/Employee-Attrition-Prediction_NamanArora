@@ -55,3 +55,40 @@ Concepts to learn:
 * Constant and identifier columns add no predictive value.
 * One-Hot Encoding prevents introducing artificial ordering into categorical variables.
 * Feature scaling helps algorithms treat numerical features fairly by bringing them to a common scale.
+
+
+# Learnings
+
+## Task 3 - Exploratory Data Analysis (EDA)
+
+### Exploratory Data Analysis
+
+* Understood that EDA is performed to identify patterns, relationships, and trends before building machine learning models.
+* Learned to separate business analysis (EDA) from model preprocessing by using a separate `df_eda` dataframe.
+
+### GroupBy and Lambda Functions
+
+* Used `groupby()` to analyze attrition across categorical features.
+* Used `lambda x: (x == "Yes").mean() * 100` to calculate attrition percentages.
+
+### Choosing the Right Analysis
+
+* Learned that not every numerical feature should be grouped directly.
+* For continuous variables such as `MonthlyIncome`, creating ranges (bins) produces more meaningful business insights than grouping every unique value.
+* For ordinal features such as `WorkLifeBalance`, no binning is required because the values already represent categories.
+
+### Binning Numerical Features
+
+* Used `pd.cut()` to create salary and experience ranges.
+* Learned how `bins`, `labels`, and `include_lowest=True` work.
+
+### Business Insights
+
+* Learned that EDA should answer business questions instead of simply displaying statistics.
+* Observations should describe relationships and trends without claiming causation.
+
+### Data Analysis Best Practices
+
+* Always check the number of unique values (`nunique()`) before deciding whether to create bins.
+* Consider sample size before interpreting percentages, especially when groups contain very few observations.
+
