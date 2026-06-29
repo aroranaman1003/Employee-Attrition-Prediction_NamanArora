@@ -92,3 +92,25 @@ Concepts to learn:
 * Always check the number of unique values (`nunique()`) before deciding whether to create bins.
 * Consider sample size before interpreting percentages, especially when groups contain very few observations.
 
+
+# Task 4 & Task 5 - Model Building and Evaluation
+
+## Model Building
+- Learned how to split the dataset into training and testing sets using an 80/20 ratio.
+- Understood the importance of `stratify=y` for maintaining class distribution.
+- Learned why `class_weight="balanced"` helps handle imbalanced datasets without modifying the original data.
+- Trained three classification models:
+  - Logistic Regression
+  - Random Forest Classifier
+  - Gradient Boosting Classifier
+
+## Model Evaluation
+- Evaluated models using Precision, Recall, F1-Score, ROC-AUC, and Confusion Matrix.
+- Learned why Accuracy is not sufficient for imbalanced classification problems.
+- Compared multiple models using a single comparison table.
+- Selected the best model based on a balance of evaluation metrics instead of relying on one metric.
+
+## Model Interpretation
+- Learned the difference between Feature Importance and Logistic Regression Coefficients.
+- Understood why tree-based models use `feature_importances_` while Logistic Regression uses `coef_`.
+- Ranked the Top 10 most influential features affecting employee attrition.

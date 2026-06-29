@@ -56,3 +56,23 @@ Begin Exploratory Data Analysis (EDA) to identify patterns in employee attrition
 * Understanding the data is as important as building predictive models.
 * Feature type (continuous, ordinal, categorical) determines the appropriate analysis technique.
 
+
+# Task 4 and 5 - Model Building & Evaluation
+
+## Completed
+- Split the dataset into training and testing sets.
+- Trained Logistic Regression, Random Forest, and Gradient Boosting models.
+- Evaluated each model using Precision, Recall, F1-Score, ROC-AUC, and Confusion Matrix.
+- Compared all models using a comparison table.
+- Identified Logistic Regression as the best-performing model.
+- Extracted and ranked the top features influencing employee attrition.
+
+## Challenges Faced
+- Understood why Accuracy is not an ideal metric for imbalanced datasets.
+- Learned when to use Logistic Regression coefficients instead of tree-based feature importance.
+
+## Key Takeaways
+- Model evaluation should consider multiple metrics rather than Accuracy alone.
+- Different algorithms explain feature influence differently.
+- Business interpretation is an essential part of a machine learning project.
+
