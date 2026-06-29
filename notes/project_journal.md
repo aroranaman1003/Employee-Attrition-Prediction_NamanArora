@@ -76,3 +76,23 @@ Begin Exploratory Data Analysis (EDA) to identify patterns in employee attrition
 - Different algorithms explain feature influence differently.
 - Business interpretation is an essential part of a machine learning project.
 
+
+
+# Session 4 - Data Visualization
+
+## Completed
+
+- Visualized attrition rates by department.
+- Visualized attrition rates by job role.
+- Compared salary distributions using a box plot.
+- Generated a confusion matrix for the best-performing model.
+- Visualized the Top 10 most influential features.
+- Compared all trained models using an ROC Curve.
+
+## Key Learnings
+
+- Different visualizations communicate different aspects of the data.
+- ROC Curves provide a comprehensive comparison of classification models.
+- Logistic Regression coefficients explain both the strength and direction of feature influence.
+- Proper visualization improves the interpretability of machine learning models.
+

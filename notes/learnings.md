@@ -114,3 +114,25 @@ Concepts to learn:
 - Learned the difference between Feature Importance and Logistic Regression Coefficients.
 - Understood why tree-based models use `feature_importances_` while Logistic Regression uses `coef_`.
 - Ranked the Top 10 most influential features affecting employee attrition.
+
+
+# Task 6 - Data Visualization
+
+## Charts Created
+
+- Created a bar chart to visualize attrition rates across different departments.
+- Created a bar chart to compare attrition rates among different job roles.
+- Created a box plot to compare the monthly income distribution of employees who stayed versus those who left.
+- Visualized the confusion matrix of the best-performing model (Logistic Regression).
+- Ranked and visualized the Top 10 most influential features using the absolute values of Logistic Regression coefficients.
+- Created an ROC Curve comparing Logistic Regression, Random Forest, and Gradient Boosting models.
+
+## Concepts Learned
+
+- Difference between bar charts, box plots, and horizontal bar charts.
+- Why box plots are suitable for comparing data distributions.
+- Interpretation of a confusion matrix heatmap.
+- ROC Curve and AUC as evaluation tools for binary classification.
+- Why ROC curves require predicted probabilities (`predict_proba()`) instead of predicted classes (`predict()`).
+- Importance of comparing models visually using ROC curves.
+- Purpose of `plt.legend()`, `plt.tight_layout()`, `plt.savefig()`, `plt.xticks()`, and `ha="right"` in Matplotlib.
