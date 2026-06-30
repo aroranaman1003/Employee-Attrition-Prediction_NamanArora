@@ -57,8 +57,6 @@ Concepts to learn:
 * Feature scaling helps algorithms treat numerical features fairly by bringing them to a common scale.
 
 
-# Learnings
-
 ## Task 3 - Exploratory Data Analysis (EDA)
 
 ### Exploratory Data Analysis
@@ -136,3 +134,19 @@ Concepts to learn:
 - Why ROC curves require predicted probabilities (`predict_proba()`) instead of predicted classes (`predict()`).
 - Importance of comparing models visually using ROC curves.
 - Purpose of `plt.legend()`, `plt.tight_layout()`, `plt.savefig()`, `plt.xticks()`, and `ha="right"` in Matplotlib.
+
+# Task 7 - HR Insights & Business Recommendations
+
+## Business Learnings
+
+- Learned that machine learning should support HR decision-making rather than replace human judgment.
+- Understood how to translate technical model results into business-friendly recommendations for non-technical stakeholders.
+- Identified that employee attrition is influenced by multiple factors rather than salary alone.
+- Learned how data-driven insights can help HR identify employees who may require additional support before they decide to leave.
+- Understood the importance of balancing employee well-being with organizational productivity through smart work and effective workload management.
+
+## Communication Learnings
+
+- Learned how to write an executive summary for a non-technical HR audience.
+- Improved my ability to explain machine learning results using business language instead of technical terminology.
+- Learned that presenting actionable recommendations is as important as building accurate machine learning models.

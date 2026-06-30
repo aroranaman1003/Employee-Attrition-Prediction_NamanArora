@@ -1,0 +1,51 @@
+Employee Attrition Prediction – Executive Summary
+This project was conducted to understand the key factors that contribute to 
+employee attrition and to provide HR with insights that can help improve employee 
+retention. The objective was not only to identify employees who may be at risk of 
+leaving but also to understand the workplace factors that influence their decisions.
+
+The analysis found that employee attrition is influenced by multiple factors rather 
+than salary alone. Employees who frequently work overtime, travel often for business, 
+or belong to certain job roles showed a higher likelihood of leaving the organization. 
+While lower salary ranges experienced higher attrition, workplace conditions, workload,
+and job responsibilities also played a significant role in employee turnover.
+
+Among all departments, the Sales department recorded the highest attrition rate. 
+Within job roles, Sales Representatives experienced the highest employee turnover, 
+followed by Laboratory Technicians. These findings suggest that HR should prioritize 
+these departments and job roles when planning employee retention strategies.
+
+One of the most important observations from this project is that employee retention 
+should be considered a long-term investment rather than a short-term cost. 
+Experienced employees contribute valuable knowledge, skills, and organizational 
+experience. Losing talented employees requires the company to spend additional time, 
+effort, and financial resources on recruiting, hiring, onboarding, and training new 
+employees. Retaining skilled employees is therefore more beneficial than repeatedly 
+replacing them.
+
+Based on these findings, I recommend that HR actively encourage employees to share 
+their genuine workplace concerns and ensure that these concerns are reviewed fairly. 
+If an employee raises a legitimate issue that can reasonably be resolved while 
+benefiting both the employee and the organization, every effort should be made to 
+address it before the employee decides to leave. Building a workplace where employees 
+feel heard, respected, and supported can significantly improve long-term retention.
+
+Another important recommendation is to promote smart work alongside hard work. 
+While dedication and effort are essential for organizational success, continuously 
+relying on excessive overtime may lead to stress, burnout, and reduced employee 
+satisfaction. Improving workload planning, encouraging efficient work practices, 
+providing appropriate support, and maintaining a healthy work-life balance can 
+increase both employee well-being and overall organizational productivity.
+
+Finally, the predictive model developed during this project should be viewed as an 
+early warning system rather than a replacement for HR decision-making. 
+The model can help identify employees who may be at a higher risk of attrition, 
+allowing HR to initiate meaningful conversations and provide timely support. 
+However, every employee's situation is unique, and no machine learning model can fully
+understand personal circumstances, workplace relationships, or individual motivations. 
+Therefore, final decisions should always be based on communication, fairness, empathy,
+and professional human judgment.
+
+Overall, this project demonstrates how data-driven insights can help HR make more 
+informed decisions, improve employee satisfaction, reduce unnecessary attrition, 
+and build a stronger, more engaged, and more stable workforce.
